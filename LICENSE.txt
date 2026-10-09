@@ -1,0 +1,19 @@
+REW to DSP Importer
+Copyright (c) 2025-2026 Muneer (https://muneer.me). All rights reserved.
+
+You may download and use this software free of charge, for personal and
+commercial purposes.
+
+You may share unmodified copies of the software, provided you do not charge
+for them and you include this notice.
+
+You may not sell, rent or sublicense the software, modify it, or reverse
+engineer it, except where the law allows this regardless of these terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OF THE SOFTWARE. THIS INCLUDES ANY DAMAGE TO
+AUDIO EQUIPMENT RESULTING FROM FILTER SETTINGS APPLIED WITH THE SOFTWARE.

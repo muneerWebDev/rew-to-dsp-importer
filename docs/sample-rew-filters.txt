@@ -1,0 +1,40 @@
+Filter Settings file
+
+Room EQ V5.31.3
+Dated: 27 Apr, 2025 11:22:01 AM
+
+Notes:rew-sample
+
+Equaliser: Configurable PEQ
+Apr 26
+Filter  1: ON  PK       Fc   24.00 Hz  Gain -12.00 dB  Q   2.00
+Filter  2: ON  PK       Fc   27.00 Hz  Gain -12.00 dB  Q   2.00
+Filter  3: ON  PK       Fc   125.0 Hz  Gain  -9.20 dB  Q   2.39
+Filter  4: ON  PK       Fc    7129 Hz  Gain  -8.00 dB  Q   1.84
+Filter  5: ON  PK       Fc    9348 Hz  Gain -12.00 dB  Q   1.00
+Filter  6: ON  PK       Fc    9896 Hz  Gain  -2.20 dB  Q   3.91
+Filter  7: ON  PK       Fc   14647 Hz  Gain -12.00 dB  Q   1.00
+Filter  8: ON  PK       Fc   17279 Hz  Gain -11.00 dB  Q   1.00
+Filter  9: ON  PK       Fc   20000 Hz  Gain  -5.50 dB  Q   1.73
+Filter 10: ON  None   
+Filter 11: ON  None   
+Filter 12: ON  None   
+Filter 13: ON  None   
+Filter 14: ON  None   
+Filter 15: ON  None   
+Filter 16: ON  None   
+Filter 17: ON  None   
+Filter 18: ON  None   
+Filter 19: ON  None   
+Filter 20: ON  None   
+Filter 21: ON  None   
+Filter 22: ON  None   
+Filter 23: ON  None   
+Filter 24: ON  None   
+Filter 25: ON  None   
+Filter 26: ON  None   
+Filter 27: ON  None   
+Filter 28: ON  None   
+Filter 29: ON  None   
+Filter 30: ON  None   
+
